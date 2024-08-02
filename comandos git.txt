@@ -1,0 +1,28 @@
+comandos git
+
+git init = para iniciar um git dentro de um arquivo
+
+git status = ver status dos arquivos
+
+git add . = adiona os arquivos ao controle de versao
+
+git commit -m"mensagem" = cria versoes com mensagem do que foi alterado
+
+git push = envia para a nuvem
+
+
+git remote add origin //httpalgumacoisa = indica para qual repositorio do github vai ser enviado
+
+git reflog = mostras as versões que foram enviadas onde a mais atual sera a do topo
+
+git reset --hard = navega entre as versões
+
+git checkout nomedaBranch = altera entre as branchs
+
+git checkout -b  "novaBranch= altera e cria nova branch e entra nela
+
+gi marge nomeBranch = uni a branch com a main principal(devemos estar na main principal para isso)
+
+git pull = puxa atualizções quenao foram feitas em outro lugar para seru pc
+
+
