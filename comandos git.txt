@@ -6,9 +6,11 @@ git status = ver status dos arquivos
 
 git add . = adiona os arquivos ao controle de versao
 
-git commit -m"mensagem" = cria versoes com mensagem do que foi alterado
+git commit -m "mensagem" = cria versoes com mensagem do que foi alterado
 
-git push = envia para a nuvem
+git branch -M main = cria o repositorio main
+
+git push -u origin main = envia para a nuvem
 
 
 git remote add origin //httpalgumacoisa = indica para qual repositorio do github vai ser enviado
